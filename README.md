@@ -16,11 +16,11 @@ The final Power BI dashboard analyzes **sales performance versus budget** for Ad
 ## 🗂 Dataset Description
 This project uses **two Excel files** as the data source:
 
-- **Excel sheet named Budget** ![Budget.xlsx](Budget.xlsx)
-  Contains budget allocation data by product category and month (as shown in the uploaded dataset screenshot).
+- **Excel sheet named [Budget](Budget.xlsx)**
+- Contains budget allocation data by product category and month (as shown in the uploaded dataset screenshot).
 
-- **Excel sheet named AdventureWorks_Database**  
-  Contains detailed sales transaction data. All sales-related metrics and insights in the dashboard are derived from this file.
+- **Excel sheet named [AdventureWorks_Database](AdventureWorks_Database.xlsx)**
+- Contains detailed sales transaction data. All sales-related metrics and insights in the dashboard are derived from this file.
 
 ### Dataset Details
 - **Source:** Excel files (Sales & Budget)
