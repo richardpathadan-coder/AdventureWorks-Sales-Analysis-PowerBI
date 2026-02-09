@@ -1,24 +1,38 @@
 # 📊 AdventureWorks Sales & Budget Analysis – Power BI
 
 ## 🔍 Project Overview
-This project presents an end-to-end **Business Intelligence solution** built using **Power BI** to analyze **sales performance versus budget** for AdventureWorks.
+This project demonstrates an end-to-end **Power BI Business Intelligence workflow** using **Excel-based data** as the source.
 
-The dashboard enables stakeholders to:
-- Monitor overall sales performance
-- Track budget variance and financial gaps
-- Analyze trends across product categories and months
-- Make data-driven decisions using interactive visuals and KPIs
+The data was **loaded from Excel files**, **cleaned and transformed using Power Query**, and then **manually modeled by creating relationships between tables** to ensure accurate analysis.
+
+The final Power BI dashboard analyzes **sales performance versus budget** for AdventureWorks, enabling stakeholders to:
+- Track overall sales and budget performance
+- Identify category-level and monthly variances
+- Analyze trends over time
+- Support data-driven business decisions using interactive visuals and KPIs
+
 
 ---
-
 ## 🗂 Dataset Description
-- **Source:** Excel-based sales dataset
+This project uses **two Excel files** as the data source:
+
+- **Excel sheet named Budget** ![Budget.xlsx](Budget.xlsx)
+  Contains budget allocation data by product category and month (as shown in the uploaded dataset screenshot).
+
+- **Excel sheet named AdventureWorks_Database**  
+  Contains detailed sales transaction data. All sales-related metrics and insights in the dashboard are derived from this file.
+
+### Dataset Details
+- **Source:** Excel files (Sales & Budget)
 - **Time Period:** January 2023 – December 2023
-- **Granularity:** Product-level monthly sales
+- **Granularity:** Monthly sales and budget data
 - **Categories:** Bikes, Accessories, Clothing
 - **Metrics:** Sales Amount, Budget Amount
-  **Screenshots of the Excel sheets which the data was taken**
-  ![Excel]()
+
+The data from both Excel files was loaded into Power BI, cleaned and transformed using **Power Query**, and then combined through **manually created relationships** to support accurate sales vs budget analysis.
+
+- **Screenshots of the Excel sheets which the data was taken**
+  ![Excel](Exceldatascreenshot.png)
 
 ---
 
