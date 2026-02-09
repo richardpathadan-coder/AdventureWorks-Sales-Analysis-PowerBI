@@ -17,13 +17,13 @@ The final Power BI dashboard analyzes **sales performance versus budget** for Ad
 This project uses **two Excel files** as the data source:
 
 - **Excel sheet named [Budget](Budget.xlsx)**
-- Contains budget allocation data by product category and month (as shown in the uploaded dataset screenshot).
+  Contains budget allocation data by product category and month (as shown in the uploaded dataset screenshot).
 
 - **Excel sheet named [AdventureWorks_Database](AdventureWorks_Database.xlsx)**
-- Contains detailed sales transaction data. All sales-related metrics and insights in the dashboard are derived from this file.
+  Contains detailed sales transaction data. All sales-related metrics and insights in the dashboard are derived from this file.
 
 ### Dataset Details
-- **Source:** Excel files (Sales & Budget)
+- **Source:** Excel files (AdventureWorks_Database & Budget)
 - **Time Period:** January 2023 – December 2023
 - **Granularity:** Monthly sales and budget data
 - **Categories:** Bikes, Accessories, Clothing
@@ -31,8 +31,14 @@ This project uses **two Excel files** as the data source:
 
 The data from both Excel files was loaded into Power BI, cleaned and transformed using **Power Query**, and then combined through **manually created relationships** to support accurate sales vs budget analysis.
 
-- **Screenshots of the Excel sheets which the data was taken**
+- **Screenshots of the Excel sheets [Budget](Budget.xlsx) which the data was taken**
+
   ![Excel](Exceldatascreenshot.png)
+- **Screenshots of the Excel sheets  [AdventureWorks_Database](AdventureWorks_Database.xlsx) which the data was taken**
+
+  ![AdventureWorks_Database]
+
+  
 
 ---
 
