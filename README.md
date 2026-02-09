@@ -37,9 +37,7 @@ The data from both Excel files was loaded into Power BI, cleaned and transformed
 - **Screenshots of the Excel sheets  [AdventureWorks_Database](AdventureWorks_Database.xlsx) which the Sales/Customer/Product data was taken**
 
   ![AdventureWorks_Database](Exceldata2screenshot.png)
-
   
-
 ---
 
 ## 🛠 Tools & Technologies
@@ -73,11 +71,14 @@ These KPIs provide both high-level summaries and detailed insights.
 
 
 ## 📥 Download Power BI Report
-- [Download Power BI Report (.pbix)](Project.pbix)
+ 1. Download the Power BI report:
+ [Download Power BI Report (Project.pbix)](Project.pbix)
+2. Open the file using Power BI Desktop
+3. Refresh data if required
 
 ## 🖥 Dashboard Preview 
 
-### Executive Summary & KPIs
+#### Screenshot of the Power Bi Dashboard
 ![Dashboard Overview](PowerBireprtshot.png)
 
 ---
@@ -125,6 +126,8 @@ These KPIs provide both high-level summaries and detailed insights.
 
 - DAX measure creation
 
-- Business and financial analysis
+## Business and financial analysis
+### Business Conclusion
 
+The analysis highlights strong overall demand with minor budget shortfalls driven by category concentration and seasonal misalignment. By improving forecasting accuracy and leveraging Power BI insights, the business can better align budgets with demand and enhance decision-making.
 
