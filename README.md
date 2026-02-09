@@ -17,7 +17,8 @@ The dashboard enables stakeholders to:
 - **Granularity:** Product-level monthly sales
 - **Categories:** Bikes, Accessories, Clothing
 - **Metrics:** Sales Amount, Budget Amount
-
+  **Screenshots of the Excel sheets which the data was taken**
+  ![Excel]()
 
 ---
 
@@ -62,20 +63,7 @@ These KPIs provide both high-level summaries and detailed insights.
 ## 🖥 Dashboard Preview
 
 ### Executive Summary & KPIs
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](PowerBireprtshot.png)
 
 ---
 
-### 📊 Sales vs Budget by Category
-![Variance by Category](screenshots/variance_by_category.png)
-
----
-
-### 📅 Monthly Sales & Variance Trends
-![Monthly Trends](screenshots/monthly_trends.png)
-
----
-
-## 📂 Repository Structure
-# AdventureWorks-Sales-Analysis-PowerBI
-Business intelligence dashboard built in Power BI to analyze sales, budget variance, and category performance for AdventureWorks.
