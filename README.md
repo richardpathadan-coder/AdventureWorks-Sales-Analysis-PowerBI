@@ -31,12 +31,12 @@ This project uses **two Excel files** as the data source:
 
 The data from both Excel files was loaded into Power BI, cleaned and transformed using **Power Query**, and then combined through **manually created relationships** to support accurate sales vs budget analysis.
 
-- **Screenshots of the Excel sheets [Budget](Budget.xlsx) which the data was taken**
+- **Screenshots of the Excel sheets [Budget](Budget.xlsx) which the Budget data was taken**
 
   ![Excel](Exceldatascreenshot.png)
-- **Screenshots of the Excel sheets  [AdventureWorks_Database](AdventureWorks_Database.xlsx) which the data was taken**
+- **Screenshots of the Excel sheets  [AdventureWorks_Database](AdventureWorks_Database.xlsx) which the Sales/Customer/Product data was taken**
 
-  ![AdventureWorks_Database]
+  ![AdventureWorks_Database](Exceldata2screenshot.png)
 
   
 
@@ -71,19 +71,60 @@ These KPIs provide both high-level summaries and detailed insights.
 
 ---
 
-## 🧠 Business Insights
-- Bikes generate the highest revenue but show the largest negative budget variance
-- Accessories consistently perform close to or above budget
-- Clothing has steady but lower revenue contribution
-- Strong sales growth observed in Q4 (October–December)
-- August records the highest negative monthly variance, indicating a need for reforecasting
 
----
+## 📥 Download Power BI Report
+- [Download Power BI Report (.pbix)](Project.pbix)
 
-## 🖥 Dashboard Preview
+## 🖥 Dashboard Preview 
 
 ### Executive Summary & KPIs
 ![Dashboard Overview](PowerBireprtshot.png)
 
 ---
+## Visualization & Reporting
+
+- Built interactive Power BI dashboards with:
+
+- KPI cards for executive summaries
+
+- Category-level variance analysis
+
+- Monthly trend and variance visuals
+
+- Enabled stakeholders to quickly identify performance gaps and opportunities
+
+---
+
+## Analytical Findings
+**Category Performance Analysis**
+
+- **Bikes** account for the majority of revenue but show the largest negative variance, indicating a gap between actual performance and budget expectations.
+- **Accessories** demonstrate stable sales with minimal variance, providing predictable revenue streams.
+- **Clothing** contributes lower revenue but maintains consistent performance throughout the year.
+
+➡️ Insight: Revenue is highly concentrated in Bikes, increasing financial risk and variance exposure.
+
+---
+
+## Time-Based & Trend Analysis
+
+- Identified strong seasonality, with peak sales in *Q4 (Oct–Dec)*.
+
+- Detected mid-year underperformance, particularly in August, contributing significantly to negative annual variance.
+
+➡️ Insight: Static annual budgets do not fully align with seasonal demand patterns.
+
+---
+## Skills Demonstrated (Power BI / Data Analyst)
+
+- Data extraction from Excel
+
+- Data cleaning and transformation (Power Query)
+
+- Data modeling and relationship management
+
+- DAX measure creation
+
+- Business and financial analysis
+
 
